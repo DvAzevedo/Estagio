@@ -6,7 +6,7 @@ Nome completo: Davi Santos de Azevedo
 
 E-mail: daviazevedos02@gmail.com
 
-Telefone: 71981614380
+Telefone: 
 
 Faculdade: Universidade Federal da Bahia (UFBA)
 
