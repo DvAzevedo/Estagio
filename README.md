@@ -27,3 +27,6 @@ https://github.com/DvAzevedo/Desafio_OxeBots
 Como você acha que o uso de IA vai impactar a carreira de desenvolvimento?
 
 Eu tenho uma visão otimista sobre isso. Gosto de fazer um paralelo com o desenvolvimentos dos jogos com o passar das décadas. Nos anos 70, jogos como Donkey Kong e Pac-Man encantavam muitas pessoas, mas com o decurso do tempo novas tecnogias surgiram possibilitando a criação de jogos como Doom e consoles como o Nitendo 64 e, atualmente, todos esses jogos são considerados “simples” em comparação com o Gta 6, por exemplo. Portanto, novas ferramentas, como a IA, possibilitam o surgimento de tecnologias antes inimaginaveis ou que pareciam impossíveis de existirem e, na minha concepção, a IA será a ferramenta responsável por aumentar a abstração e a complexidade dos frutos da nossa área.
+
+Currículo:
+[CURRICULO- Davi.pdf](https://github.com/user-attachments/files/17383211/CURRICULO-.Davi.pdf)
